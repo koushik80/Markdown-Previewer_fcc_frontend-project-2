@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+     background-image: url("bck.jpg");
+
+}
+
+
+
+.project {
+    font-weight: bold;
+    color: #0191B4;
+}
+
+
+
+
