@@ -1,11 +1,9 @@
 function updatePreview() {
     let previewElement = document.getElementById("preview");
     let editorValue = document.getElementById("editor").value;
-    let markedUpHTML = marked.parse(editorValue);
+    let markedUpHTML = marked.parse(editorValue, {breaks: true});
     previewElement.innerHTML = markedUpHTML;
 }
-
-
 
 function setDefault() {
     let defaultText = `
@@ -45,7 +43,7 @@ function exampleOf() {
     let editorField = document.getElementById("editor");
     let previewElement = document.getElementById("preview");
     editorField.value = defaultText;
-    previewElement.innerHTML = marked.parse(defaultText);
+    previewElement.innerHTML = marked.parse(defaultText, {breaks: true});
 }
 
 
