@@ -7,8 +7,8 @@ function updatePreview() {
 
 function setDefault() {
     let defaultText = `\
-# JS
-## Project
+# freeCodeCamp 
+## Frontend Project
 [Learn more about Javascript](http://www.freecodecamp.org).
 <dl>
   <dt>Definition list</dt>
