@@ -27,17 +27,18 @@ function exampleOf() {
         }
 \`\`\`
 
- - This 
- - is 
- - an 
- - example 
- - of 
- - list 
+ - This
+ - is
+ - an
+ - example
+ - of
+ - list
  - items
 
  > This is an example of block quote
 
- ![Learn JavaScript - Full Course for Beginners](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)(https://www.youtube.com/watch?v=PkZNo7MFNFg)
+ ![Learn JavaScript](https://www.youtube.com/s/desktop/4122e69b/img/favicon_48x48.png)
+ [Here goes video lesson](https://www.youtube.com/watch?v=PkZNo7MFNFg)
  **This is an example of Bolded Text**`;
 
     let editorField = document.getElementById("editor");

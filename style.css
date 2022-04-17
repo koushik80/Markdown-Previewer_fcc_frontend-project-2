@@ -14,6 +14,13 @@ body {
     color: #0191B4;
 }
 
+.bg-info {
+    color: whitesmoke;
+}
+.bg-success {
+    color: red;
+}
+
 
 
 
