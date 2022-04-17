@@ -37,7 +37,7 @@ function exampleOf() {
 
  > This is an example of block quote
 
- ![Learn JavaScript](https://www.youtube.com/s/desktop/4122e69b/img/favicon_48x48.png)
+ ![Learn JavaScript](https://i.ibb.co/ZmDbf9w/js.jpg_200x200)
  [Here goes video lesson](https://www.youtube.com/watch?v=PkZNo7MFNFg)
  **This is an example of Bolded Text**`;
 
