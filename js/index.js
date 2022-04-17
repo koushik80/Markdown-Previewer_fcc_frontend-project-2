@@ -7,8 +7,8 @@ function updatePreview() {
 
 function setDefault() {
     let defaultText = `\
-# This is
-## a markdown previewer
+# JS
+## Project
 [Learn more about Javascript](http://www.freecodecamp.org).
 <dl>
   <dt>Definition list</dt>
