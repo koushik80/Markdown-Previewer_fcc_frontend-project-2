@@ -7,7 +7,7 @@ function updatePreview() {
 
 function setDefault() {
     let defaultText = `\
-# devHuß
+# This is
 ## a markdown previewer
 [Learn more about Javascript](http://www.freecodecamp.org).
 <dl>
